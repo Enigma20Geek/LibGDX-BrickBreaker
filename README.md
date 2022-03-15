@@ -7,4 +7,6 @@ The game is simple but to learn a new library, its a very good project. Especial
 
 To change level, change the level name on 24th line in MapHelper.java file.
 
+Don't forget to run build.gradle first if you are running for the first time.
+
 Hope you like it:)
